@@ -1,0 +1,8 @@
+- http://blog.iandavis.com/2009/08/representing-time-in-rdf-part-1/
+- https://www.w3.org/TR/owl-time/
+- http://www.cs.rpi.edu/~willig4/temp/time.pdf
+- http://wwwconference.org/www2008/papers/pdf/p605-puglieseA.pdf
+- https://www.cs.ox.ac.uk/people/boris.motik/pubs/m12validity-time.pdf
+- http://www.strabon.di.uoa.gr/
+- https://github.com/Breinify/brein-time-utilities
+- http://chronix.io
